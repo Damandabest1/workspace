@@ -12,6 +12,18 @@ Everything else stays `find contact` — never guess an address.
 | The Villages Daily Sun (FL) | 55+ community press | Newsroom phone in Drive: daily-sun-phone-script.md | unknown | Confirm whether the call was made |
 | The Villages community (Reddit) | 55+ community | reddit-post.md | unknown | Confirm whether it was posted and how it landed |
 
+## Week 1 targets (researched 2026-10-22, drafts in the Pitch List Week 1 artifact)
+
+| # | Target | Segment | Contact | Status |
+|---|---|---|---|---|
+| 1 | Arlington County Office of 55+ Programs | 55+ county program (VA) | 55Plus@arlingtonva.us (official site); 703-228-4747 (confirm) | drafted |
+| 2 | Golden Gazette, Fairfax Area Agency on Aging | 55+ newspaper (VA) | Topic ideas 703-324-GOLD (4653) (official site); email link on page | drafted |
+| 3 | Montgomery County Recreation, Senior Programs | 55+ county program (MD) | recreation.customerservice@montgomerycountymd.gov (2021 source, confirm); 240-777-4925 | drafted |
+| 4 | Pour House Trivia | Trivia host company (DMV, 70+ nights) | find contact (website) | drafted |
+| 5 | Eavesdrop Brewery, Manassas | Brewery with music trivia/bingo | find contact (website / in person) | drafted |
+
+Bench: Senior Planet from AARP · Caboose Commons · Mustang Sally Brewing · Songbyrd Music House · Leisure World News follow-up.
+
 ## Segments to fill (5 new targets per week, delivered in the Monday pack)
 
 1. **55+ / active-adult communities:** activity directors and resident newsletters (e.g. other
