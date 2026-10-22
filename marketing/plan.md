@@ -4,6 +4,8 @@ Order matters: fix the leaks first so every new visitor is worth more, then turn
 
 ## Phase 1 — Fix the funnel (week 1, product work, James)
 
+**Status 2026-10-22:** #1, #2, #5, #7 in progress in Replit. Next up: #3, #6, #4.
+
 Each item is small and directly targets a measured leak.
 
 | # | Change | Leak it targets | Expected effect |

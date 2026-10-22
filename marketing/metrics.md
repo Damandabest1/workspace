@@ -20,3 +20,10 @@ until automated access exists). All figures are all-time cumulative unless marke
 | 2026-10-22 | 1,157 | 263 | 23% | 224 | 85% | 268 | 32 | 31 | ~1.0 | Baseline. Funnel widget shows 0% for challenges while tiles show 32/31 — tracking bug. |
 
 To get weekly (not cumulative) numbers, subtract the previous row.
+
+## Product changes (for before/after reads)
+
+| Date | Change | KPI to watch |
+|---|---|---|
+| 2026-10-22 | Fixes 1–4 started in Replit: placeholder testimonials → live stats strip; Quick Play button; optional alias (default Guest); challenge funnel tracking fix | Start rate (baseline 23%); funnel challenge % should now match tiles |
+

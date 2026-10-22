@@ -5,7 +5,7 @@ Development agent for Mystery Track from Way Back. Read this file first every se
 
 ## Business context
 
-- **Business:** Mystery Track from Way Back — free, no-signup music trivia web game: guess the artist + year from classic song clips. 14 channels: Everything, 70s, 80s, 90s, 2000s Hits, Movie Themes, Latin Hits, Soft Rock, Rap, R&B, Rock, Pop, Country, Reggae. Modes: solo, challenge-a-friend, live multiplayer, pass-the-phone. Built by Walker's Digital Solutions. Audiences: 55+/retirement communities, decade-nostalgia fans, genre communities (Latin, hip-hop, reggae, country), bars/venues/game-night hosts. Goal: grow players first, then revenue.
+- **Business:** Mystery Track from Way Back — free, no-signup music trivia web game: guess the artist + year from classic song clips. 14 channels: Everything, 70s, 80s, 90s, 2000s Hits, Movie Themes, Latin Hits, Soft Rock, Rap, R&B, Rock, Pop, Country, Reggae. Modes: solo, challenge-a-friend, live multiplayer, pass-the-phone. Built by Walker's Digital Solutions on Replit. Audiences: 55+/retirement communities, decade-nostalgia fans, genre communities (Latin, hip-hop, reggae, country), bars/venues/game-night hosts. Goal: grow players first, then revenue.
 - **Size:** 1 (solo founder, James Walker)
 - **Top headaches:** Inconsistent posting / low awareness · No time and no ad budget · Not knowing who to pitch next; build vs. promote split
 - **Connected tools:** Google Drive, Google Calendar, Gmail (needs re-auth), Notion, Canva, Figma
