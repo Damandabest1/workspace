@@ -47,6 +47,6 @@ local sponsor per channel, senior-community activity licensing. Not before Phase
 
 ## Open questions for James
 
-- One true "based in" line for pitches (Virginia vs. DC/Maryland)?
+- ~~Locality line~~ Resolved: Chesapeake, Virginia (from James's own July pitches).
 - Were the July Villages / Leisure World pitches actually sent? Any replies? (Gmail needs re-auth.)
 - Any of those sent pitches mention Gospel/Faith channels? If so, a short correction may be owed.

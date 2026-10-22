@@ -12,13 +12,27 @@ Everything else stays `find contact` — never guess an address.
 | The Villages Daily Sun (FL) | 55+ community press | Newsroom phone in Drive: daily-sun-phone-script.md | unknown | Confirm whether the call was made |
 | The Villages community (Reddit) | 55+ community | reddit-post.md | unknown | Confirm whether it was posted and how it landed |
 
+## Earlier pitches found in Gmail (all unanswered as of 2026-10-22)
+
+James is based in **Chesapeake, VA** (his own July pitches say so). Follow-ups drafted 2026-10-22 as replies in the original threads.
+
+| Sent | Target | Contact | Follow-up |
+|---|---|---|---|
+| 2026-07-12 | Waterside District, Norfolk (Janet) | jaguilar@watersidedistrict.com | drafted 10-22 |
+| 2026-07-12 | Waterside District, Norfolk (team) | jwestnedge@watersidedistrict.com | drafted 10-22 |
+| 2026-08-31 | Astro Event Company (DJ/events) | Sales@astrodj.com | drafted 10-22 |
+| 2026-09-08 | Corporate Events Inc | hello@corporateeventsinc.net | drafted 10-22 |
+| 2026-09-08 | Assist My Event (Deany) | deany@assistmyevent.com | drafted 10-22 |
+
+No sent email to Leisure World News was found — the July pitch was likely never sent.
+
 ## Week 1 targets (researched 2026-10-22, drafts in the Pitch List Week 1 artifact)
 
 | # | Target | Segment | Contact | Status |
 |---|---|---|---|---|
-| 1 | Arlington County Office of 55+ Programs | 55+ county program (VA) | 55Plus@arlingtonva.us (official site); 703-228-4747 (confirm) | drafted |
+| 1 | Arlington County Office of 55+ Programs | 55+ county program (VA) | 55Plus@arlingtonva.us (official site); 703-228-4747 (confirm) | Gmail draft 10-22 |
 | 2 | Golden Gazette, Fairfax Area Agency on Aging | 55+ newspaper (VA) | Topic ideas 703-324-GOLD (4653) (official site); email link on page | drafted |
-| 3 | Montgomery County Recreation, Senior Programs | 55+ county program (MD) | recreation.customerservice@montgomerycountymd.gov (2021 source, confirm); 240-777-4925 | drafted |
+| 3 | Montgomery County Recreation, Senior Programs | 55+ county program (MD) | recreation.customerservice@montgomerycountymd.gov (2021 source, confirm); 240-777-4925 | Gmail draft 10-22 |
 | 4 | Pour House Trivia | Trivia host company (DMV, 70+ nights) | find contact (website) | drafted |
 | 5 | Eavesdrop Brewery, Manassas | Brewery with music trivia/bingo | find contact (website / in person) | drafted |
 
@@ -28,7 +42,7 @@ Bench: Senior Planet from AARP · Caboose Commons · Mustang Sally Brewing · So
 
 1. **55+ / active-adult communities:** activity directors and resident newsletters (e.g. other
    large active-adult communities in VA/MD/FL)
-2. **Bars, breweries, venues with trivia or game nights** near James (in person, flyers)
+2. **Bars, breweries, venues with trivia or game nights** in Hampton Roads (Chesapeake, Norfolk, Virginia Beach) — James can visit in person
 3. **Genre fan communities:** Latin music, old-school hip-hop, reggae, country, and 80s nostalgia
    Facebook groups
 4. **Local-interest press and radio:** community desks, "things to do" calendars
