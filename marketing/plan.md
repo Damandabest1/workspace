@@ -4,7 +4,7 @@ Order matters: fix the leaks first so every new visitor is worth more, then turn
 
 ## Phase 1 — Fix the funnel (week 1, product work, James)
 
-**Status 2026-10-22:** #1, #2, #5, #7 in progress in Replit. Next up: #3, #6, #4.
+**Status 2026-10-22:** #1, #2, #5, #7 shipped and verified. Next up: #3 (challenge prompt), #6 (feedback line), then #4 (Daily Mystery Track).
 
 Each item is small and directly targets a measured leak.
 

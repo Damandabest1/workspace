@@ -25,5 +25,5 @@ To get weekly (not cumulative) numbers, subtract the previous row.
 
 | Date | Change | KPI to watch |
 |---|---|---|
-| 2026-10-22 | Fixes 1–4 started in Replit: placeholder testimonials → live stats strip; Quick Play button; optional alias (default Guest); challenge funnel tracking fix | Start rate (baseline 23%); funnel challenge % should now match tiles |
+| 2026-10-22 | **Shipped & verified:** placeholder testimonials → live stats strip; Quick Play button (`quick_play` event); optional alias (Guest###); challenge funnel tracking fix | Start rate vs. 23% baseline — read after 7 full days; quick_play share of starts |
 
