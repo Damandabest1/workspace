@@ -18,7 +18,7 @@ James is based in **Chesapeake, VA** (his own July pitches say so). Follow-ups d
 
 | Sent | Target | Contact | Follow-up |
 |---|---|---|---|
-| 2026-07-12 | Waterside District, Norfolk (Janet) | jaguilar@watersidedistrict.com | NOT sent — thread trashed; resend pending |
+| 2026-07-12 | Waterside District, Norfolk (Janet) | jaguilar@watersidedistrict.com | sent 10-22 |
 | 2026-07-12 | Waterside District, Norfolk (team) | jwestnedge@watersidedistrict.com | sent 10-22 |
 | 2026-08-31 | Astro Event Company (DJ/events) | Sales@astrodj.com | sent 10-22 |
 | 2026-09-08 | Corporate Events Inc | hello@corporateeventsinc.net | sent 10-22 |
