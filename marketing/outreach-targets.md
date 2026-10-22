@@ -38,6 +38,25 @@ No sent email to Leisure World News was found — the July pitch was likely neve
 
 Bench: Senior Planet from AARP · Caboose Commons · Mustang Sally Brewing · Songbyrd Music House · Leisure World News follow-up.
 
+## Week 1b — Hampton Roads (researched 2026-10-22)
+
+| # | Target | Segment | Contact | Status |
+|---|---|---|---|---|
+| 1 | Chesapeake Senior Program Office ("55 & Better", Rokeby Center) | 55+ city program, James's home city | kwilliams@cityofchesapeake.net (SeniorNavigator listing); 757-962-5828 | Gmail draft 10-22 |
+| 2 | Norfolk Recreation, Parks & Open Spaces, 55+ | 55+ city program | rpos@norfolk.gov (SeniorNavigator listing); 757-823-4291 | Gmail draft 10-22 |
+| 3 | Virginia Beach Parks & Rec, Forever Young senior centers | 55+ city program | fun@VBgov.com (SeniorNavigator listing); 757-385-1100 | Gmail draft 10-22 |
+| 4 | Beach Trivia (hosts music bingo + trivia 5 nights/wk across Southside/Peninsula, incl. CoVa Brewing, Norfolk) | Trivia host company | find contact — ask the host at a CoVa night | visit |
+| 5 | Tap It Local, 648 Grassfield Pkwy, Chesapeake (trivia Wednesdays per older listing) | Local bar, trivia night | in person — ask for the manager | visit |
+
+Backups: Wasserhund Brewing (VB, trivia Mondays) · Pleasure House Brewing (VB, trivia Wednesdays) · Benchtop Brewing (Norfolk, 3rd Thursday trivia) · Maker's Craft (Norfolk) · Voodoo Brewing VB.
+
+### Walk-in script (venues)
+1. Go on a non-trivia night, early (4–6 pm), and ask for the manager or events person.
+2. "Hi, I'm James. I live here in Chesapeake and built a free music trivia game guests play on their phones. Scan, pick a decade, race to name the song. No app, no sign-up."
+3. Show it live on your phone: tap Quick Play, let them guess one song.
+4. Ask: "Could I leave a few table cards for your next trivia night, free? If people like it, we can talk about a music round."
+5. Leave 5–10 Scan to Play cards + your number (757-672-6896). Get the manager's name and email; tell Claude so the follow-up goes out.
+
 ## Segments to fill (5 new targets per week, delivered in the Monday pack)
 
 1. **55+ / active-adult communities:** activity directors and resident newsletters (e.g. other
