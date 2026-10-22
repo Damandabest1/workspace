@@ -18,11 +18,11 @@ James is based in **Chesapeake, VA** (his own July pitches say so). Follow-ups d
 
 | Sent | Target | Contact | Follow-up |
 |---|---|---|---|
-| 2026-07-12 | Waterside District, Norfolk (Janet) | jaguilar@watersidedistrict.com | drafted 10-22 |
-| 2026-07-12 | Waterside District, Norfolk (team) | jwestnedge@watersidedistrict.com | drafted 10-22 |
-| 2026-08-31 | Astro Event Company (DJ/events) | Sales@astrodj.com | drafted 10-22 |
-| 2026-09-08 | Corporate Events Inc | hello@corporateeventsinc.net | drafted 10-22 |
-| 2026-09-08 | Assist My Event (Deany) | deany@assistmyevent.com | drafted 10-22 |
+| 2026-07-12 | Waterside District, Norfolk (Janet) | jaguilar@watersidedistrict.com | NOT sent — thread trashed; resend pending |
+| 2026-07-12 | Waterside District, Norfolk (team) | jwestnedge@watersidedistrict.com | sent 10-22 |
+| 2026-08-31 | Astro Event Company (DJ/events) | Sales@astrodj.com | sent 10-22 |
+| 2026-09-08 | Corporate Events Inc | hello@corporateeventsinc.net | sent 10-22 |
+| 2026-09-08 | Assist My Event (Deany) | deany@assistmyevent.com | sent 10-22 |
 
 No sent email to Leisure World News was found — the July pitch was likely never sent.
 
@@ -32,7 +32,7 @@ No sent email to Leisure World News was found — the July pitch was likely neve
 |---|---|---|---|---|
 | 1 | Arlington County Office of 55+ Programs | 55+ county program (VA) | 55Plus@arlingtonva.us (official site); 703-228-4747 (confirm) | sent 10-22 (follow-up due 10-29) |
 | 2 | Golden Gazette, Fairfax Area Agency on Aging | 55+ newspaper (VA) | Topic ideas 703-324-GOLD (4653) (official site); email link on page | drafted |
-| 3 | Montgomery County Recreation, Senior Programs | 55+ county program (MD) | recreation.customerservice@montgomerycountymd.gov (2021 source, confirm); 240-777-4925 | sent 10-22 (follow-up due 10-29) |
+| 3 | Montgomery County Recreation, Senior Programs | 55+ county program (MD) | recreation.customerservice@montgomerycountymd.gov (2021 source, confirm); 240-777-4925 | sent 10-22 twice (both versions) — no follow-up needed; reply only if they answer |
 | 4 | Pour House Trivia | Trivia host company (DMV, 70+ nights) | find contact (website) | drafted |
 | 5 | Eavesdrop Brewery, Manassas | Brewery with music trivia/bingo | find contact (website / in person) | drafted |
 
