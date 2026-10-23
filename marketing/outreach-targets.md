@@ -42,9 +42,9 @@ Bench: Senior Planet from AARP · Caboose Commons · Mustang Sally Brewing · So
 
 | # | Target | Segment | Contact | Status |
 |---|---|---|---|---|
-| 1 | Chesapeake Senior Program Office ("55 & Better", Rokeby Center) | 55+ city program, James's home city | kwilliams@cityofchesapeake.net (SeniorNavigator listing); 757-962-5828 | Gmail draft 10-22 |
-| 2 | Norfolk Recreation, Parks & Open Spaces, 55+ | 55+ city program | rpos@norfolk.gov (SeniorNavigator listing); 757-823-4291 | Gmail draft 10-22 |
-| 3 | Virginia Beach Parks & Rec, Forever Young senior centers | 55+ city program | fun@VBgov.com (SeniorNavigator listing); 757-385-1100 | Gmail draft 10-22 |
+| 1 | Chesapeake Senior Program Office ("55 & Better", Rokeby Center) | 55+ city program, James's home city | kwilliams@cityofchesapeake.net (SeniorNavigator listing); 757-962-5828 | sent 10-23 (follow-up due 10-30) |
+| 2 | Norfolk Recreation, Parks & Open Spaces, 55+ | 55+ city program | rpos@norfolk.gov (SeniorNavigator listing); 757-823-4291 | sent 10-23 (follow-up due 10-30) |
+| 3 | Virginia Beach Parks & Rec, Forever Young senior centers | 55+ city program | fun@VBgov.com (SeniorNavigator listing); 757-385-1100 | sent 10-23 (follow-up due 10-30) |
 | 4 | Beach Trivia (hosts music bingo + trivia 5 nights/wk across Southside/Peninsula, incl. CoVa Brewing, Norfolk) | Trivia host company | find contact — ask the host at a CoVa night | visit |
 | 5 | Tap It Local, 648 Grassfield Pkwy, Chesapeake (trivia Wednesdays per older listing) | Local bar, trivia night | in person — ask for the manager | visit |
 
